@@ -1,0 +1,10 @@
+.math{
+    text-align: center;
+    background-color: burlywood;
+    height: 100vh;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
